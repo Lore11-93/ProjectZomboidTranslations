@@ -1,27 +1,27 @@
 Challenge_IT = {
     Challenge_YouHaveOneDay_name = "Hai un giorno",
-	Challenge_YouHaveOneDay_desc = "Sei tornato nella Contea di Knox. Sei tornato sulla mappa dove √® iniziata l'infezione di Project Zomboid. <LINE> <LINE> Hai un giorno di relativa sicurezza. Gli zombie arriveranno in gran numero e ti troveranno. Dove eri solito fare la tua ultima resistenza? Dov'era che la facevi ai vecchi tempi? Meglio trovare quel posto in fretta. <LINE> <LINE> [Ringraziamo il mappatore comunitario BobHeckling per aver ricreato la vecchia mappa 0.1.5 con l'attuale set di strumenti PZ..]",
+	Challenge_YouHaveOneDay_desc = "Sei tornato nella Contea di Knox. Sei tornato sulla mappa dove Ë iniziata l'infezione di Project Zomboid. <LINE> <LINE> Hai un giorno di relativa sicurezza. Gli zombie arriveranno in gran numero e ti troveranno. Dove eri solito fare la tua ultima resistenza? Dov'era che la facevi ai vecchi tempi? Meglio trovare quel posto in fretta. <LINE> <LINE> [Ringraziamo il mappatore comunitario BobHeckling per aver ricreato la vecchia mappa 0.1.5 con l'attuale set di strumenti PZ..]",
 
     Challenge_WinterIsComing_name = "L'inverno sta arrivando",
-	Challenge_WinterIsComing_desc = "Siamo a met√† luglio, ma all'improvviso si sente un brivido nella brezza. Tra soli tre giorni arriver√† un inverno senza precedenti. <LINE> <LINE> Ti sei svegliato in un luogo isolato. Le scorte sono scarse e le orde di non morti potrebbero essere rallentate dal freddo intenso, ma non per questo sono meno letali. <LINE> <LINE> Copriti bene, sopravvissuto...",
+	Challenge_WinterIsComing_desc = "Siamo a met‡ luglio, ma all'improvviso si sente un brivido nella brezza. Tra soli tre giorni arriver‡ un inverno senza precedenti. <LINE> <LINE> Ti sei svegliato in un luogo isolato. Le scorte sono scarse e le orde di non morti potrebbero essere rallentate dal freddo intenso, ma non per questo sono meno letali. <LINE> <LINE> Copriti bene, sopravvissuto...",
 
 	Challenge_OpeningHours_name = "Orari di apertura",
-    Challenge_OpeningHours_desc = "Il centro commerciale √® circondato. Una volta era un luogo importante nella loro vita. L'istinto li ha condotti alle sue porte. Un ricordo di ci√≤ che facevano un tempo... <LINE> <LINE> Sei solo, ma non per molto. Alle 9 del mattino il centro commerciale sar√† pronto a lavorare: le porte si apriranno e le orde entreranno. <LINE> <LINE> Preparati ad accoglierle.",
+    Challenge_OpeningHours_desc = "Il centro commerciale Ë circondato. Una volta era un luogo importante nella loro vita. L'istinto li ha condotti alle sue porte. Un ricordo di ciÚ che facevano un tempo... <LINE> <LINE> Sei solo, ma non per molto. Alle 9 del mattino il centro commerciale sar‡ pronto a lavorare: le porte si apriranno e le orde entreranno. <LINE> <LINE> Preparati ad accoglierle.",
 
 	Challenge_AReallyCDDAy_name = "Davvero un CD DA",
-	Challenge_AReallyCDDAy_desc = "Esci dalla doccia e cadi malamente. Sei ubriaco fradicio e hai un brutto raffreddore. <LINE> <LINE> Come se non bastasse, la casa va a fuoco! Oggi non √® proprio la tua giornata. <LINE> <LINE> [Una sfida ispirata a 'Una giornata davvero brutta' del fantastico, meraviglioso e imperdibile Cataclysm: Dark Days Ahead] ",
+	Challenge_AReallyCDDAy_desc = "Esci dalla doccia e cadi malamente. Sei ubriaco fradicio e hai un brutto raffreddore. <LINE> <LINE> Come se non bastasse, la casa va a fuoco! Oggi non Ë proprio la tua giornata. <LINE> <LINE> [Una sfida ispirata a 'Una giornata davvero brutta' del fantastico, meraviglioso e imperdibile Cataclysm: Dark Days Ahead] ",
 
 	Challenge_Challenge1_name = "La casa nel bosco - Ultima Resistenza",
-	Challenge_Challenge1_desc = "Li senti avvicinarsi. Orde di teste morte che invadono la tua baita isolata da ogni angolo. La morte √® inevitabile, ma il fucile √® a portata di mano. <LINE> <LINE> Ultima Resistenza √® caratterizzato da ondate infinite di zombie in numero sempre crescente. Sopravvivi il pi√π a lungo possibile contro le probabilit√† schiaccianti.",
+	Challenge_Challenge1_desc = "Li senti avvicinarsi. Orde di teste morte che invadono la tua baita isolata da ogni angolo. La morte Ë inevitabile, ma il fucile Ë a portata di mano. <LINE> <LINE> Ultima Resistenza Ë caratterizzato da ondate infinite di zombie in numero sempre crescente. Sopravvivi il pi˘ a lungo possibile contro le probabilit‡ schiaccianti.",
 
 	Challenge_Challenge2_name = "La casa nel bosco - Accumulatore dell'Ultima Resistenza",
-	Challenge_Challenge2_desc = "Un altro giorno, un'altra capanna pronta per essere insanguinata. Le orde sono su di te e la tua morte sar√† tanto dolorosa quanto raccapricciante. Quindi vai a combattere... <LINE> <LINE> Ultima Resistenza - Accumulatore presenta ondate infinite di zombie in numero sempre crescente. Utilizza i soldi guadagnati uccidendo gli zombie per acquistare equipaggiamento, salire di livello e riparare le tue armi intrise di sangue.",
+	Challenge_Challenge2_desc = "Un altro giorno, un'altra capanna pronta per essere insanguinata. Le orde sono su di te e la tua morte sar‡ tanto dolorosa quanto raccapricciante. Quindi vai a combattere... <LINE> <LINE> Ultima Resistenza - Accumulatore presenta ondate infinite di zombie in numero sempre crescente. Utilizza i soldi guadagnati uccidendo gli zombie per acquistare equipaggiamento, salire di livello e riparare le tue armi intrise di sangue.",
 
     Challenge_AStormIsComing_name = "Sta arrivando una tempesta",
-	Challenge_AStormIsComing_desc = "Le nuvole si addensano sul Kentucky. Il crepitio dei tuoni si sente in lontananza. <LINE> <LINE> Quando il cielo si oscura, i morti che inciampano sulla terra diventano irrequieti. <LINE> <LINE> Questa √® una tempesta che crescer√† e ricadr√† nella sua ferocia, ma non finir√† mai.",
+	Challenge_AStormIsComing_desc = "Le nuvole si addensano sul Kentucky. Il crepitio dei tuoni si sente in lontananza. <LINE> <LINE> Quando il cielo si oscura, i morti che inciampano sulla terra diventano irrequieti. <LINE> <LINE> Questa Ë una tempesta che crescer‡ e ricadr‡ nella sua ferocia, ma non finir‡ mai.",
 
     Challenge_TheDescendingFog_name = "La nebbia discendente",
-    Challenge_TheDescendingFog_desc = "La gente l'ha vista per la prima volta sull'acqua. Una leggera coltre bianca sul fiume Ohio. <LINE> <LINE> Inizi√≤ come una nebbia. Poi avvolse la citt√†. Gli abitanti della citt√† morirono urlando nel buio. Ora camminano l√† fuori. <LINE> <LINE> Non visti, non ascoltati e implacabili nella ricerca dei vivi.",
+    Challenge_TheDescendingFog_desc = "La gente l'ha vista per la prima volta sull'acqua. Una leggera coltre bianca sul fiume Ohio. <LINE> <LINE> IniziÚ come una nebbia. Poi avvolse la citt‡. Gli abitanti della citt‡ morirono urlando nel buio. Ora camminano l‡ fuori. <LINE> <LINE> Non visti, non ascoltati e implacabili nella ricerca dei vivi.",
 
     Challenge_Kingsmouth_name = "Kingsmouth",
     Challenge_Kingsmouth_desc = "Goditi un soggiorno rilassante a Kingsmouth Island!",
@@ -54,7 +54,7 @@ Challenge_IT = {
 	Challenge_Challenge2_ButtonStartGold = "+%1 Oro iniziale - %2 XP",
 	Challenge_Challenge2_ButtonStartGoldMax = "Oro iniziale massimo %1",
 	-- PlayerUpWindow
-	Challenge_Challenge2_Skills = "Abilit√†",
+	Challenge_Challenge2_Skills = "Abilit‡",
 	Challenge_Challenge2_PermanentBonus = "Bonus permanente",
 	-- VariousItemWindow
 	Challenge_Challenge2_Carpentry = "Carpenteria",
@@ -67,8 +67,8 @@ Challenge_IT = {
 	Challenge_Challenge2_Health = "Salute",
 
 	Challenge_OpeningHoursInfoBox = " <CENTRE> Il centro commerciale apre alle 9.00. <LINE> <LINE> Preparati alla folla...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> Tra tre giorni inizier√† l'inverno senza fine. <LINE> <LINE> Copriti bene...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Tra 24 ore il viaggio di ritorno nella Contea di Knox diventer√† l'inferno in terra...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Tra tre giorni inizier‡ l'inverno senza fine. <LINE> <LINE> Copriti bene...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Tra 24 ore il viaggio di ritorno nella Contea di Knox diventer‡ l'inferno in terra...",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> Maltempo infinito in arrivo...",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> Si sta facendo nebbioso...",
 }

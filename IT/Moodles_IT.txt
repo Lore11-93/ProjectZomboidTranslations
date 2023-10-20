@@ -50,7 +50,7 @@ Moodles_IT = {
 	Moodles_bored_lvl2 = "Annoiato",
 	Moodles_bored_lvl3 = "Molto annoiato",
 	Moodles_bored_lvl4 = "Estremamente annoiato",
-	-- Infelicit√†
+	-- Infelicit‡
 	Moodles_unhappy_lvl1 = "Lieve tristezza",
 	Moodles_unhappy_lvl2 = "Piagnucolante",
 	Moodles_unhappy_lvl3 = "Depresso",
@@ -135,7 +135,7 @@ Moodles_IT = {
 	Moodles_tired_desc_lvl1 = "Hai bisogno di sdraiarti.",
 	Moodles_tired_desc_lvl2 = "Riduzione della consapevolezza.",
 	Moodles_tired_desc_lvl3 = "Consapevolezza fortemente ridotta.",
-	Moodles_tired_desc_lvl4 = "Cos√¨ stanco. Cos√¨ disperatamente, disumanamente stanco.",
+	Moodles_tired_desc_lvl4 = "CosÏ stanco. CosÏ disperatamente, disumanamente stanco.",
 	-- Fame
 	Moodles_hungry_desc_lvl1 = "Potrei mangiare un boccone.",
 	Moodles_hungry_desc_lvl2 = "Potrei mangiare un cavallo in questo momento.",
@@ -148,49 +148,49 @@ Moodles_IT = {
 	Moodles_panic_desc_lvl4 = "Precisione e visione fortemente ridotte.",
 	-- Malessere
 	Moodles_sick_desc_lvl1 = "Non strafare.",
-	Moodles_sick_desc_lvl2 = "Forza e capacit√† di guarigione ridotte.",
-	Moodles_sick_desc_lvl3 = "Forza e capacit√† di guarigione fortemente ridotte.",
+	Moodles_sick_desc_lvl2 = "Forza e capacit‡ di guarigione ridotte.",
+	Moodles_sick_desc_lvl3 = "Forza e capacit‡ di guarigione fortemente ridotte.",
 	Moodles_sick_desc_lvl4 = "Sei molto malato. Resta a riposo.",
 	-- Noia
 	Moodles_bored_desc_lvl1 = "Tieniti occupato o cerca un po' di svago.",
 	Moodles_bored_desc_lvl2 = "Rischio di diventare infelice.",
-	Moodles_bored_desc_lvl3 = "Alta possibilit√† di diventare infelice.",
-	Moodles_bored_desc_lvl4 = "Elevata possibilit√† di diventare infelice.",
-	-- Infelicit√†
+	Moodles_bored_desc_lvl3 = "Alta possibilit‡ di diventare infelice.",
+	Moodles_bored_desc_lvl4 = "Elevata possibilit‡ di diventare infelice.",
+	-- Infelicit‡
 	Moodles_unhappy_desc_lvl1 = "Trova un modo per migliorare il tuo umore.",
 	Moodles_unhappy_desc_lvl2 = "Cerca un po' di divertimento o di contatto umano.",
 	Moodles_unhappy_desc_lvl3 = "Devastato dal lutto e dalla disperazione.",
-	Moodles_unhappy_desc_lvl4 = "Trova un modo per dimenticare la realt√†.",
+	Moodles_unhappy_desc_lvl4 = "Trova un modo per dimenticare la realt‡.",
 	-- Sanguinamento
 	Moodles_bleed_desc_lvl1 = "Necessario un bendaggio.",
-	Moodles_bleed_desc_lvl2 = "Forza e velocit√† ridotte.",
-	Moodles_bleed_desc_lvl3 = "Forza e velocit√† fortemente ridotte.",
+	Moodles_bleed_desc_lvl2 = "Forza e velocit‡ ridotte.",
+	Moodles_bleed_desc_lvl3 = "Forza e velocit‡ fortemente ridotte.",
 	Moodles_bleed_desc_lvl4 = "Morte imminente.",
 	-- Bagnato
 	Moodles_wet_desc_lvl1 = "Leggermente umido. Pioggia o sudore?",
-	Moodles_wet_desc_lvl2 = "Pi√π sudato, o ancora pi√π coperto di pioggia?",
-	Moodles_wet_desc_lvl3 = "Possibilit√† di prendere un raffreddore.",
-	Moodles_wet_desc_lvl4 = "Alta possibilit√† di prendere un raffreddore.",
+	Moodles_wet_desc_lvl2 = "Pi˘ sudato, o ancora pi˘ coperto di pioggia?",
+	Moodles_wet_desc_lvl3 = "Possibilit‡ di prendere un raffreddore.",
+	Moodles_wet_desc_lvl4 = "Alta possibilit‡ di prendere un raffreddore.",
 	-- Raffreddore
 	Moodles_hasacold_desc_lvl1 = "Starnuti occasionali.",
 	Moodles_hasacold_desc_lvl2 = "Tendenza a starnutire.",
-	Moodles_hasacold_desc_lvl3 = "Starnuti e tosse. Riduzione della velocit√† e della guarigione.",
-	Moodles_hasacold_desc_lvl4 = "Velocit√† e guarigione ora fortemente ridotte.",
+	Moodles_hasacold_desc_lvl3 = "Starnuti e tosse. Riduzione della velocit‡ e della guarigione.",
+	Moodles_hasacold_desc_lvl4 = "Velocit‡ e guarigione ora fortemente ridotte.",
 	-- Ferito
-	Moodles_injured_desc_lvl1 = "C'√® qualcosa che non va...",
-	Moodles_injured_desc_lvl2 = "Forza e velocit√† ridotte.",
-	Moodles_injured_desc_lvl3 = "Forza e velocit√† fortemente ridotte.",
+	Moodles_injured_desc_lvl1 = "C'Ë qualcosa che non va...",
+	Moodles_injured_desc_lvl2 = "Forza e velocit‡ ridotte.",
+	Moodles_injured_desc_lvl3 = "Forza e velocit‡ fortemente ridotte.",
 	Moodles_injured_desc_lvl4 = "Non andartene docile in quella buona notte...",
 	-- Dolore
 	Moodles_pain_desc_lvl1 = "Senti un leggero dolore.",
-	Moodles_pain_desc_lvl2 = "Velocit√† e precisione leggermente ridotte.",
-	Moodles_pain_desc_lvl3 = "Velocit√† e precisione ridotte.",
-	Moodles_pain_desc_lvl4 = "Velocit√† e precisione fortemente ridotte.",
+	Moodles_pain_desc_lvl2 = "Velocit‡ e precisione leggermente ridotte.",
+	Moodles_pain_desc_lvl3 = "Velocit‡ e precisione ridotte.",
+	Moodles_pain_desc_lvl4 = "Velocit‡ e precisione fortemente ridotte.",
 	-- Carico pesante
 	Moodles_heavyload_desc_lvl1 = "Trasporti un po' troppo.",
-	Moodles_heavyload_desc_lvl2 = "Velocit√† di movimento ridotta.",
-	Moodles_heavyload_desc_lvl3 = "Velocit√† di movimento fortemente ridotta.",
-	Moodles_heavyload_desc_lvl4 = "Non ce la fai pi√π! Movimento compromesso.",
+	Moodles_heavyload_desc_lvl2 = "Velocit‡ di movimento ridotta.",
+	Moodles_heavyload_desc_lvl3 = "Velocit‡ di movimento fortemente ridotta.",
+	Moodles_heavyload_desc_lvl4 = "Non ce la fai pi˘! Movimento compromesso.",
 	-- Ubriaco
 	Moodles_drunk_desc_lvl1 = "Hai bevuto un po' di alcol.",
 	Moodles_drunk_desc_lvl2 = "Coordinazione leggermente compromessa.",
@@ -202,24 +202,24 @@ Moodles_IT = {
 	Moodles_zombified_desc_lvl1 = "Improvviso desiderio di mangiare persone.",
 	-- Cibo consumato
 	Moodles_foodeaten_desc_lvl1 = "Fame rosicchiante del tutto assente.",
-	Moodles_foodeaten_desc_lvl2 = "Pancia piena. La bont√† si fa strada nel tuo organismo.",
+	Moodles_foodeaten_desc_lvl2 = "Pancia piena. La bont‡ si fa strada nel tuo organismo.",
 	Moodles_foodeaten_desc_lvl3 = "Stomaco soddisfatto. Salute e forza rafforzate.",
 	Moodles_foodeaten_desc_lvl4 = "Non riesci a dare un altro singolo, unico morso.",
 	-- Ipertermia
 	Moodles_hyperthermia_desc_lvl1 = "Considera l'idea di toglierti i vestiti. Sete aumentata.",
 	Moodles_hyperthermia_desc_lvl2 = "Sete. Sudore. Sovraesposizione.",
-	Moodles_hyperthermia_desc_lvl3 = "Nausea, incapacit√† di concentrarsi e disperato bisogno di liquidi.",
+	Moodles_hyperthermia_desc_lvl3 = "Nausea, incapacit‡ di concentrarsi e disperato bisogno di liquidi.",
 	Moodles_hyperthermia_desc_lvl4 = "Delirante per il colpo di calore e l'esposizione. In grave pericolo.",
 	-- Ipotermia
 	Moodles_hypothermia_desc_lvl1 = "Fa un po' freddino da queste parti...",
 	Moodles_hypothermia_desc_lvl2 = "Devi trovare il modo di riscaldarti.",
-	Moodles_hypothermia_desc_lvl3 = "Uomo vivo. Fa COS√å freddo.",
+	Moodles_hypothermia_desc_lvl3 = "Uomo vivo. Fa COSÃ freddo.",
 	Moodles_hypothermia_desc_lvl4 = "Corpo e mente tormentati dal freddo.",
 	-- Temperatura percepita
-	Moodles_windchill_desc_lvl1 = "Sembra 5-10 gradi pi√π freddo di quanto non sia in realt√†.",
-	Moodles_windchill_desc_lvl2 = "Sembra 10-15 gradi pi√π freddo di quanto non sia in realt√†.",
-	Moodles_windchill_desc_lvl3 = "Sembra 15-20 gradi pi√π freddo di quanto non sia in realt√†.",
-	Moodles_windchill_desc_lvl4 = "Sembra ci sia pi√π di 20 gradi in meno rispetto alla realt√†.",
+	Moodles_windchill_desc_lvl1 = "Sembra 5-10 gradi pi˘ freddo di quanto non sia in realt‡.",
+	Moodles_windchill_desc_lvl2 = "Sembra 10-15 gradi pi˘ freddo di quanto non sia in realt‡.",
+	Moodles_windchill_desc_lvl3 = "Sembra 15-20 gradi pi˘ freddo di quanto non sia in realt‡.",
+	Moodles_windchill_desc_lvl4 = "Sembra ci sia pi˘ di 20 gradi in meno rispetto alla realt‡.",
 	-- Impossibile scattare
 	Moodles_CantSprint = "Movimento limitato",
 	Moodles_CantSprint_desc = "Indumenti pesanti, borse ingombranti o oggetti grandi ti rallentano!"
